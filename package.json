@@ -2,6 +2,14 @@
     "name": "light-violet",
     "displayName": "light-violet",
     "description": "Light Violet Theme.",
+    "author": {
+        "name": "Bakri Moharram",
+        "email": "bakri_moharram@hotmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/bakrimoharram/light-violet-theme",
+        "type": "git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
